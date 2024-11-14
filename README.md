@@ -11,11 +11,3 @@ Enfim muitas coisas neste ultimos 40 anos se passaram, e resolvi deixar registra
 
 ## Sobre as dicas
 As dicas irei postar conforme minhas necessidades ao dia a dia das minhas atividades, espero que ajude alguém e também se quiser contribuir e só se pronunciar.
-
-echo "# mavo-tips" >> README.md
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/m4v0/mavo-tips.git
-git push -u origin main
