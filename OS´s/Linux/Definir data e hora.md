@@ -1,4 +1,4 @@
-# 1 - Linux Definir data e hora a partir de um prompt de comando
+# Definir data e hora a partir do terminal Linux
 
 Defenindo a data e a hora do sistema a partir do prompt de comando (bash shell) é possivel?
 O servidor linux não tem ambiente GUI (Graphical User Interfase), tenho acesso apenas via SSH. 
