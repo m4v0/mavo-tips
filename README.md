@@ -1,4 +1,4 @@
-# Este repositorio tem o objetivo registrar dicas e truques do MAVO.
+# Este repositorio tem como objetivo registrar dicas e truques do MAVO.
 
 ```
 "Quem sou eu, MAVO acronimo do meu nome completo, adotado ainda na minha adolecia é usado no mundo virtual 
